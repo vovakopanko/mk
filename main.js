@@ -10,7 +10,7 @@ const attackSecondPerson = () =>
   console.log(secondPerson.name + " " + "Fight pistol!");
 
 const firstPerson = {
-  name: "Vova",
+  name: "Vova Meat",
   hp: 100,
   img: "http://reactmarathon-api.herokuapp.com/assets/liukang.gif",
   weapon: [firstWeaponFirstPerson, secondWeaponFirstPerson],
